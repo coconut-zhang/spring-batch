@@ -11,7 +11,7 @@
             <th>任务名称</th>
             <th>操作</th>
         </tr>
-        <form action="/executeJob" method="get">
+        <form action="/SpringBatch-DataMigration/executeJob" method="get">
             <tr>
                 <input type="hidden" name="jobName" value="userBatchJobName">
                 <td>1</td>
